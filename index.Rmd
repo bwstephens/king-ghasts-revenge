@@ -1,6 +1,5 @@
 --- 
-title: "King Ghast's Revenge"
-subtitle: "Book 3"
+title: "Book 3: King Ghast's Revenge"
 author: "Beckett Stephens"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
